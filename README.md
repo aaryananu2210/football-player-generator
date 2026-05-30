@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚽ Football Player Generator
 
 A fun football-themed web application built using **HTML, CSS, and JavaScript** that randomly selects football players with images.
